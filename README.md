@@ -1,17 +1,92 @@
 <h1 align="center">Hi 👋, I'm Akrem Barboura</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [edu-power](https://github.com/akrembarboura/edu-Power)
+<h3 align="center">
+  🚀 Frontend Developer | React & Next.js Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **akrembarboura316@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+Specialist;Next.js+Learner;Building+Real+Projects;Always+Learning+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+* 🔭 Working on **Edu-Power (E-learning platform)**
+* 🌱 Learning **Next.js & Advanced React**
+* 💬 Ask me about **React & JavaScript**
+* 📫 Email: **[akrembarboura316@gmail.com](mailto:akrembarboura316@gmail.com)**
+* ⚡ Fun fact: I love turning ideas into real apps
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/akrembarboura">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nextjs,tailwind,python,mongodb,mysql,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akrembarboura&show_icons=true&theme=tokyonight&hide_border=true&animate=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akrembarboura&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akrembarboura&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Top Project
+
+* 🔥 **Edu-Power**
+  👉 Modern E-learning platform (courses + quizzes + progress tracking)
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Master Next.js
+* 💼 Start Freelancing
+* 🧠 Build SaaS Product
+* 🌍 Work with international clients
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akrembarboura&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+<h3 align="center">⚡ Code. Build. Repeat. ⚡</h3>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akrembarboura/akrembarboura/output/snake.svg" alt="snake animation" />
+</p>
