@@ -65,16 +65,6 @@
 * 🔥 **Edu-Power**
   👉 Modern E-learning platform (courses + quizzes + progress tracking)
 
----
-
-## 🎯 2026 Goals
-
-* 🚀 Master Next.js
-* 💼 Start Freelancing
-* 🧠 Build SaaS Product
-* 🌍 Work with international clients
-
----
 
 ## 👀 Profile Views
 
