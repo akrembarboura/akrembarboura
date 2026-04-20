@@ -1,28 +1,37 @@
+
+👉 Problems:
+- `generate:` is not indented under `jobs`
+- `runs-on` is not indented
+- `steps` is inside ``` (INVALID in YAML)
+
+---
+
+#  FIXED VERSION (copy THIS exactly)
+
+```yaml
 name: Generate Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  generate:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Generate snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: akrembarboura
-      outputs: |
-        dist/snake.svg
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: akrembarboura
+          outputs: |
+            dist/snake.svg
 
-  - name: Push to output branch
-    uses: crazy-max/ghaction-github-pages@v3
-    with:
-      target_branch: output
-      build_dir: dist
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
