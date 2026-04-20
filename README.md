@@ -78,5 +78,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akrembarboura/akrembarboura/output/snake.svg" alt="snake animation" />
+  <img src="https://github.com/akrembarboura/akrembarboura/blob/output/snake.svg" alt="snake animation" />
 </p>
