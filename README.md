@@ -74,9 +74,14 @@
 
 ---
 
-<h3 align="center">⚡ Code. Build. Repeat. ⚡</h3>
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/akrembarboura/akrembarboura/blob/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/akrembarboura/akrembarboura/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/akrembarboura/akrembarboura/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/akrembarboura/akrembarboura/output/github-snake.svg" />
+  </picture>
 </p>
