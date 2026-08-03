@@ -23,21 +23,22 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/akrembarboura" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+
+<a href="https://github.com/akrembarboura" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
 </a>
 
 <a href="mailto:akrembarboura316@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://www.linkedin.com/in/akrem-barboura-939146280/" height="40" />
+<a href="https://www.linkedin.com/in/akrem-barboura-939146280/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
 </a>
+
 </p>
 
 ---
-
 ## 💻 Languages and Tools
 
 <p align="center">
