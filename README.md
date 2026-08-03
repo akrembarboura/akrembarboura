@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img align="center" src="https://www.linkedin.com/in/akrem-barboura-939146280/" height="40" />
 </a>
 </p>
 
