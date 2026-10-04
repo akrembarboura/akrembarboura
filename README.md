@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akrem Barboura</h1>
+<h1 align="center">Hi , I'm Akrem Barboura</h1>
 <h3 align="center">Frontend & MERN Stack Developer from Tunisia 🇹🇳</h3>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 I’m currently working on **MERN E-Commerce**
-- 🌱 I’m currently learning **Next.js**
-- 💬 Ask me about **React, JavaScript, MERN Stack**
-- 📫 Reach me at **akrembarboura316@gmail.com**
+-  I’m currently working on **MERN platform**
+-  I’m currently learning **Next.js**
+-  Ask me about **React, JavaScript, MERN Stack**
+-  Reach me at **akrembarboura316@gmail.com**
 
 ---
 
@@ -38,7 +38,7 @@
 </p>
 
 ---
-## 💻 Languages and Tools
+##  Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,tailwind,docker,git,github,python" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=akrembarboura&theme=tokyonight" />
