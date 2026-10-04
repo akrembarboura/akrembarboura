@@ -9,6 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=akrembarboura&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<img width="800" height="600" alt="téléchargement" src="https://github.com/user-attachments/assets/4f2883c4-eee0-40b2-8b08-cea0d70061e2" />
+
+
 ---
 
 ## 🚀 About Me
