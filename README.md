@@ -27,10 +27,6 @@
 
 <p align="left">
 
-<a href="https://github.com/akrembarboura" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-</a>
-
 <a href="mailto:akrembarboura316@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
 </a>
