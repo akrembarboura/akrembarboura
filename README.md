@@ -1,4 +1,5 @@
-  <title id="title">  <h1 align="center">Hi, I'm Akrem Barboura </h1> </title>
+  <title id="title
+    <h1 align="center">Hi, I'm Akrem Barboura </h1> 
 <h3 align="center">Frontend & MERN Stack Developer from Tunisia 🇹🇳</h3>
 
 <p align="center">
